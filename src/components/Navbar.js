@@ -1,0 +1,3 @@
+const Navbar = ({ currentPage }) => {
+    return <></>;
+};
