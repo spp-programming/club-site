@@ -1,11 +1,12 @@
 import { Route, Routes, Link } from "react-router-dom";
 import "./Navbar.css";
+import logo from "../../assets/programming-club-logo.png";
 
 const Navbar = ({ currentPage }) => {
     return (
         <nav>
             <div className="nav-left">
-                <p>Programming Club</p>
+                <img src={logo} alt="" width="80" />
             </div>
             <div className="nav-right">
                 <Link to="/">Home</Link>
