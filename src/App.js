@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Home from "./pages/Home/Home";
 import UsefulLinks from "./pages/UsefulLinks/UsefulLinks";
 import FeaturedProjects from "./pages/FeaturedProjects/FeaturedProjects";
+import Footer from "./components/Footer/Footer";
 
 function App() {
     return (
@@ -18,6 +19,7 @@ function App() {
                     element={<FeaturedProjects />}
                 ></Route>
             </Routes>
+            <Footer />
         </>
     );
 }
