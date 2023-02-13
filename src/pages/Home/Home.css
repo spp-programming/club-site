@@ -1,0 +1,40 @@
+header {
+    display: flex;
+    height: 95vh;
+    background-image: linear-gradient(
+            rgba(255, 255, 255, 0.8),
+            rgba(255, 255, 255, 0.8)
+        ),
+        url("../../assets/programming-image.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+header > p {
+    text-align: center;
+}
+
+header > h1 {
+    color: #800000;
+}
+
+.floating-btn {
+    padding: 1rem 2rem;
+    border-radius: 20px;
+    border: none;
+    color: #ffffff;
+    background-color: #800000;
+    box-shadow: 0px 10px 50px -5px black;
+    transition: 0.5s ease;
+}
+
+.floating-btn:hover {
+    transition: 0.5s ease;
+    padding: 1.1rem 2.1rem;
+    box-shadow: 0px 10px 50px -2px black;
+    opacity: 0.9;
+}
