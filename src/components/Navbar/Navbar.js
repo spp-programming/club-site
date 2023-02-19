@@ -15,11 +15,6 @@ const Navbar = ({ currentPage }) => {
                 <Link className="nav-link" to="/useful-links">
                     Useful Links
                 </Link>
-                /*
-                <Link className="nav-link" to="/featured-projects">
-                    Featured Projects
-                </Link>
-                */
             </div>
         </nav>
     );
