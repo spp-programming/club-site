@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/spp-programming/club-site/static/css/main.0f317c45.css",
+    "main.js": "/spp-programming/club-site/static/js/main.f60008b7.js",
+    "static/js/787.c703fa0c.chunk.js": "/spp-programming/club-site/static/js/787.c703fa0c.chunk.js",
+    "static/media/dribbble-image.jpg": "/spp-programming/club-site/static/media/dribbble-image.d563390c4610c3d9df2f.jpg",
+    "static/media/devdocs-image.png": "/spp-programming/club-site/static/media/devdocs-image.c633ebbd4bc5a74c8f3c.png",
+    "static/media/coding-train-image.jpeg": "/spp-programming/club-site/static/media/coding-train-image.7182fb4f586d1b0b7015.jpeg",
+    "static/media/codesandbox-image.jpg": "/spp-programming/club-site/static/media/codesandbox-image.b4f02aa97664ed08f2d8.jpg",
+    "static/media/roadmapsh-image.png": "/spp-programming/club-site/static/media/roadmapsh-image.fe9404dfdd5ce51c1680.png",
+    "static/media/codewars-image.jpg": "/spp-programming/club-site/static/media/codewars-image.e205be655b9cbd0359b6.jpg",
+    "static/media/programming-image.avif": "/spp-programming/club-site/static/media/programming-image.865174b004e25062a2b0.avif",
+    "static/media/programming-club-icon.png": "/spp-programming/club-site/static/media/programming-club-icon.0a0216aa0ee5a6e4be48.png",
+    "static/media/fireshipio-image.jpg": "/spp-programming/club-site/static/media/fireshipio-image.13730ddc42fba31fd307.jpg",
+    "index.html": "/spp-programming/club-site/index.html",
+    "main.0f317c45.css.map": "/spp-programming/club-site/static/css/main.0f317c45.css.map",
+    "main.f60008b7.js.map": "/spp-programming/club-site/static/js/main.f60008b7.js.map",
+    "787.c703fa0c.chunk.js.map": "/spp-programming/club-site/static/js/787.c703fa0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f317c45.css",
+    "static/js/main.f60008b7.js"
+  ]
+}
