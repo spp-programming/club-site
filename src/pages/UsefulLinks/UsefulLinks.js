@@ -10,7 +10,7 @@ import dribbbleImage from "../../assets/dribbble-image.jpg";
 
 const UsefulLinks = ({ props }) => {
     return (
-        <div className="container">
+        <div className="page-container">
             <h1>Useful Links</h1>
             <div id="links-container">
                 <LinkCard
