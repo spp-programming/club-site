@@ -9,9 +9,15 @@ const Navbar = ({ currentPage }) => {
                 <img src={logo} alt="" width="45" />
             </div>
             <div className="nav-right">
-                <Link to="/">Home</Link>
-                <Link to="/useful-links">Useful Links</Link>
-                <Link to="/featured-projects">Featured Projects</Link>
+                <Link className="nav-link" to="/">
+                    Home
+                </Link>
+                <Link className="nav-link" to="/useful-links">
+                    Useful Links
+                </Link>
+                <Link className="nav-link" to="/featured-projects">
+                    Featured Projects
+                </Link>
             </div>
         </nav>
     );
