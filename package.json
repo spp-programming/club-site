@@ -1,6 +1,6 @@
 {
-    "name": "programming-club-site",
-    "homepage": "https://spp-programming.github.io/",
+    "name": "club-site",
+    "homepage": "https://spp-programming.github.io/club-site",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
