@@ -2,7 +2,7 @@ h1 {
     color: #800000;
 }
 
-.container {
+.page-container {
     display: flex;
     flex-direction: column;
     align-items: center;
