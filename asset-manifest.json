@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/club-site/static/css/main.9118508c.css",
-    "main.js": "/club-site/static/js/main.46ba2075.js",
-    "static/js/787.904b2516.chunk.js": "/club-site/static/js/787.904b2516.chunk.js",
+    "main.css": "/club-site/static/css/main.54beecf6.css",
+    "main.js": "/club-site/static/js/main.a8ffbb18.js",
+    "static/js/453.9831c2ab.chunk.js": "/club-site/static/js/453.9831c2ab.chunk.js",
     "static/media/dribbble-image.jpg": "/club-site/static/media/dribbble-image.d563390c4610c3d9df2f.jpg",
     "static/media/devdocs-image.png": "/club-site/static/media/devdocs-image.c633ebbd4bc5a74c8f3c.png",
     "static/media/coding-train-image.jpeg": "/club-site/static/media/coding-train-image.7182fb4f586d1b0b7015.jpeg",
@@ -13,12 +13,12 @@
     "static/media/programming-club-icon.png": "/club-site/static/media/programming-club-icon.0a0216aa0ee5a6e4be48.png",
     "static/media/fireshipio-image.jpg": "/club-site/static/media/fireshipio-image.13730ddc42fba31fd307.jpg",
     "index.html": "/club-site/index.html",
-    "main.9118508c.css.map": "/club-site/static/css/main.9118508c.css.map",
-    "main.46ba2075.js.map": "/club-site/static/js/main.46ba2075.js.map",
-    "787.904b2516.chunk.js.map": "/club-site/static/js/787.904b2516.chunk.js.map"
+    "main.54beecf6.css.map": "/club-site/static/css/main.54beecf6.css.map",
+    "main.a8ffbb18.js.map": "/club-site/static/js/main.a8ffbb18.js.map",
+    "453.9831c2ab.chunk.js.map": "/club-site/static/js/453.9831c2ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9118508c.css",
-    "static/js/main.46ba2075.js"
+    "static/css/main.54beecf6.css",
+    "static/js/main.a8ffbb18.js"
   ]
 }
