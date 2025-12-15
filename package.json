@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^14.6.1",
     "gh-pages": "^6.3.0",
     "react": "^19.2.1",
-    "react-dom": "^19.2.1",
+    "react-dom": "^19.2.3",
     "react-router-dom": "^7.10.1",
     "web-vitals": "^5.1.0"
   },
