@@ -10,7 +10,7 @@
     "gh-pages": "^6.3.0",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
-    "react-router-dom": "^7.14.1",
+    "react-router-dom": "^7.14.2",
     "web-vitals": "^5.2.0"
   },
   "scripts": {
