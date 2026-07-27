@@ -1,4 +1,4 @@
-import { Route, Routes, Link } from "react-router-dom";
+import { Route, Routes, Link } from "react-router";
 import "./Navbar.css";
 import logo from "../../assets/programming-club-icon.png";
 
