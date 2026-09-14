@@ -8,7 +8,7 @@
     "@testing-library/react": "^16.3.3",
     "@testing-library/user-event": "^14.6.7",
     "gh-pages": "^6.3.0",
-    "react": "^19.2.8",
+    "react": "^19.3.0",
     "react-dom": "^19.2.8",
     "react-router": "^8.3.1",
     "web-vitals": "^6.2.1"
